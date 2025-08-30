@@ -1,7 +1,7 @@
 # LK-TEAM-Free-Fire-free-APIS
 Free fire API
 
-# 🔥 LK → TEAM | Free Fire API Suite (OB49) 🔥
+# 🔥 LK → TEAM | Free Fire API Suite (OB50) -- Some apis arent working for now🔥
 
 Welcome to the **LK → TEAM Free Fire API Collection**, a powerful suite of endpoints built for Free Fire players, modders, and developers.  
 Includes player stats, bio editing, nickname search, ban checking, JWT/token management, and more.  
